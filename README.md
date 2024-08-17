@@ -26,16 +26,6 @@ Go back to the project directory, you can run:
 
 ### `npm start`
 
-## Environment variables
-
-To store your environment variables, you can create `.env` file in the root of your project and fill in the following values:
-```
-STRIPE_SECRET_KEY=""
-STRIPE_WEBHOOK_SECRET=""
-REACT_APP_STRIPE_PUBLISHABLE_KEY=""
-REACT_APP_FIREBASE_CONFIG_API_KEY=""
-REACT_APP_FIREBASE_CONFIG_AUTH_DOMAIN=""
-REACT_APP_FIREBASE_CONFIG_PROJECT_ID=""
 REACT_APP_FIREBASE_CONFIG_STORAGE_BUCKET=""
 REACT_APP_FIREBASE_CONFIG_MESSAGING_SENDER_ID=""
 REACT_APP_FIREBASE_CONFIG_APP_ID=""
