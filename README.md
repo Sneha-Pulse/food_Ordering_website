@@ -25,9 +25,3 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 Go back to the project directory, you can run:
 
 ### `npm start`
-
-REACT_APP_FIREBASE_CONFIG_STORAGE_BUCKET=""
-REACT_APP_FIREBASE_CONFIG_MESSAGING_SENDER_ID=""
-REACT_APP_FIREBASE_CONFIG_APP_ID=""
-REACT_APP_FIREBASE_CONFIG_MEASUREMENT_ID=""
-```
